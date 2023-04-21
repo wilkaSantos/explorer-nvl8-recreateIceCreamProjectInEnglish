@@ -43,7 +43,7 @@ At Land8, we were challenged to recreate the entire Ice Cream project. Using Eng
 <br>
 <br>
 
-- [Visit the project]()
+- [Visit the project](https://wilkasantos.github.io/explorer-nvl8-recreateIceCreamProjectInEnglish/)
 
 <br>
 
